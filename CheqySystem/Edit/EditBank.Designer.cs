@@ -157,7 +157,7 @@
             // 
             this.cboCurrency.DisplayMember = "EnglishCurrencyName";
             this.cboCurrency.FormattingEnabled = true;
-            this.cboCurrency.Location = new System.Drawing.Point(956, 28);
+            this.cboCurrency.Location = new System.Drawing.Point(927, 28);
             this.cboCurrency.Name = "cboCurrency";
             this.cboCurrency.Size = new System.Drawing.Size(121, 27);
             this.cboCurrency.TabIndex = 33;
